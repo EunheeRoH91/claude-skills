@@ -1,0 +1,8 @@
+{
+  "name": "weekly-sales-report",
+  "description": "Build a weekly sales report from a Google Sheet for the previous Monday–Sunday and post it to Slack (one-line header + details in thread).",
+  "version": "1.0.0",
+  "author": {
+    "name": "EunheeRoH91"
+  }
+}

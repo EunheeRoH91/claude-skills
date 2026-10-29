@@ -1,0 +1,19 @@
+{
+  "name": "claude-skills",
+  "owner": {
+    "name": "EunheeRoH91"
+  },
+  "metadata": {
+    "description": "EunheeRoH91's Claude skills",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "weekly-sales-report",
+      "source": "./plugins/weekly-sales-report",
+      "description": "Build a weekly sales report from a Google Sheet for the previous Monday–Sunday and post it to Slack (one-line header + details in thread).",
+      "version": "1.0.0",
+      "category": "productivity"
+    }
+  ]
+}
